@@ -6,8 +6,8 @@ A modern, responsive, and interactive personal portfolio website built with **Re
 
 ## 🚀 Live Demo
 
-🔗 https://your-portfolio-link.vercel.app
-
+🔗https://vicky-gupta-portfolio.vercel.app/
+🔗https://vicky-gupta-portfolio.netlify.app/
 ---
 
 ## 📸 Preview
@@ -135,8 +135,8 @@ VITE_EMAILJS_PUBLIC_KEY=your_public_key
 **Vicky Kumar Gupta**
 
 - 💼 Frontend Developer
-- 📧 Email: your-email@example.com
-- 🌐 Portfolio: https://your-portfolio-link.vercel.app
+- 📧 Email: vickygupta825408@gmail.com
+- 🌐 Portfolio: https://vicky-gupta-portfolio.vercel.app/
 - 💻 GitHub: https://github.com/Vicky-Gupta-dev
 - 🔗 LinkedIn: https://www.linkedin.com/in/vicky-kumar-gupta-03344b352
 
