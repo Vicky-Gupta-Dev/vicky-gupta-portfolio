@@ -1,16 +1,157 @@
-# React + Vite
+# 🌐 Vicky Kumar Gupta - Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, responsive, and interactive personal portfolio website built with **React.js**, **Vite**, **Tailwind CSS**, and **EmailJS**. This portfolio showcases my skills, projects, experience, education, and provides an easy way to connect with me.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
+🔗 https://your-portfolio-link.vercel.app
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+> Add a screenshot of your portfolio here.
+
+![Portfolio Preview](./src/assets/portfolio-preview.png)
+
+---
+
+## ✨ Features
+
+- 📱 Fully Responsive Design
+- 🎨 Modern UI/UX
+- ⚡ Fast Performance with Vite
+- 💼 Professional Portfolio Layout
+- 🛠 Skills Section
+- 💻 Projects Showcase
+- 📈 Experience Timeline
+- 🎓 Education Timeline
+- 📧 Contact Form with EmailJS
+- 🌙 Smooth Animations
+- 🔥 Built with Tailwind CSS
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+- React.js
+- JavaScript (ES6+)
+- Tailwind CSS
+- HTML5
+- CSS3
+
+### Tools
+
+- Git
+- GitHub
+- Vite
+- VS Code
+- EmailJS
+- Vercel
+
+---
+
+## 📂 Folder Structure
+
+```text
+portfolio/
+│
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── constants.js
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── .env
+├── .gitignore
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/Vicky-Gupta-dev/portfolio.git
+```
+
+Go to the project folder
+
+```bash
+cd portfolio
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the development server
+
+```bash
+npm run dev
+```
+
+Build for production
+
+```bash
+npm run build
+```
+
+Preview production build
+
+```bash
+npm run preview
+```
+
+---
+
+## 🔑 Environment Variables
+
+Create a `.env` file in the root directory.
+
+```env
+VITE_EMAILJS_SERVICE_ID=your_service_id
+VITE_EMAILJS_TEMPLATE_ID=your_template_id
+VITE_EMAILJS_PUBLIC_KEY=your_public_key
+```
+
+---
+
+## 📬 Contact
+
+**Vicky Kumar Gupta**
+
+- 💼 Frontend Developer
+- 📧 Email: your-email@example.com
+- 🌐 Portfolio: https://your-portfolio-link.vercel.app
+- 💻 GitHub: https://github.com/Vicky-Gupta-dev
+- 🔗 LinkedIn: https://www.linkedin.com/in/vicky-kumar-gupta-03344b352
+
+---
+
+## ⭐ Support
+
+If you like this project, don't forget to **⭐ Star** the repository.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+Made with ❤️ by **Vicky Kumar Gupta**
